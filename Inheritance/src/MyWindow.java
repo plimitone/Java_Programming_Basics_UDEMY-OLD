@@ -2,7 +2,7 @@ import javax.swing.JFrame;
 
 public class MyWindow extends JFrame {
 	public static void main(String[] args) {
-		new MyWindow();
+	new MyWindow();
 		
 	}
 	
